@@ -65,7 +65,6 @@ pip install -r requirements.txt  # Or install needed deps manually
 
 3. Execute cells in sequence to replicate the analyses and visual outputs.
 
-Results and visuals will be saved in the `visuals/` directory, aligning with the notebook's logic.
 
 ---
 
